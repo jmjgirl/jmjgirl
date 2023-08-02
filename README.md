@@ -3,7 +3,7 @@
 
 <h3 align="center"> 💌 SNS 💌 </h3>
 <p align="center">
-  <a href="illi12.tistory.com/m" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/tistory-%23000000?style=for-the-badge&logo=tistory&logoColor=white"> </a>
+  <a href="https://illi12.tistory.com/" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/tistory-%23000000?style=for-the-badge&logo=tistory&logoColor=white"> </a>
   <a href="https://instagram.com/minzzy_00?igshid=NTc4MTIwNjQ2YQ==" target="_blank"> <img  src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
   <a href="jmjcap123@gmail.com" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
